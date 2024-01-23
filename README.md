@@ -37,10 +37,8 @@ Until now, Cyclistic’s marketing strategy relied on building general awareness
 
 Rather than creating a marketing campaign that targets all-new customers, marketing management believes there is a very good chance to convert casual riders into members. The casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs. The marketing team plans to design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. 
 
-### Scenario
+### Case Scenario
 
-I am assuming to be a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
-
-The goal of the analysis is to identify the behavioural differences between the Cyclistic members and the Casual riders. The scope of the analysis will focus on the trip data data for both of the customer groups of the years 2020, 2021 and 2022. The final deliverable will recommend 3 suggestions to convert Casual riders into Cyclistic members.
+I am assuming the role of a Junior Data Analyst working in the marketing analyst team at Cyclistic. The goal of the analysis is to identify the behavioural differences between the Cyclistic members and the Casual riders. The scope of the analysis will focus on the trip data data for both of the customer groups of the years 2020, 2021 and 2022. The final deliverable will recommend 3 suggestions to convert Casual riders into Cyclistic members.
 
 
