@@ -41,4 +41,20 @@ Rather than creating a marketing campaign that targets all-new customers, market
 
 I am assuming the role of a Junior Data Analyst working in the marketing analyst team at Cyclistic. The goal of the analysis is to identify the behavioural differences between the Cyclistic members and the Casual riders. The scope of the analysis will focus on the trip data data for both of the customer groups of the years 2020, 2021 and 2022. The final deliverable will recommend 3 suggestions to convert Casual riders into Cyclistic members.
 
+## Stage 1: Ask
+### The question
+How do Cyclistic members and casual riders use Cyclistic bikes differently?
+### Guiding questions
+Three questions will guide the future marketing program:  
+1. How do annual members and casual riders use Cyclistic bikes differently?  
+2. Why would casual riders buy Cyclistic annual memberships?  
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+## Stage 2: Prepare
+### Data Source
+I will use Cyclistic’s historical trip data to analyze and identify trends from Jan 2020 to Dec 2022 which can be downloaded from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). The data has been made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).  
+
+### Data Organization
+There are 34 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. The corresponding column names are ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
+
 
