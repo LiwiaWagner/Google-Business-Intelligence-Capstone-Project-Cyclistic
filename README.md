@@ -19,7 +19,7 @@ My task was to act as a Junior Data Analyst that would analyse company data and 
 Data Source: https://divvy-tripdata.s3.amazonaws.com/index.html
 
 SQL Queries:
-  1. Combining Data
+  [1. Combining Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/01.%20Combining%20Data.sql)
   2. Exploring Data
   3. Cleaning Data
   4. Analyzing Data
