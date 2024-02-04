@@ -1,6 +1,6 @@
 # Google Business Intelligence Capstone Project: Buying Behaviour Analysis of Cyclistic Customers
 
-Google Business Intelligence Professional Certificate: https://www.coursera.org/professional-certificates/google-business-intelligence
+[Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence)
 
 # Preface
 
