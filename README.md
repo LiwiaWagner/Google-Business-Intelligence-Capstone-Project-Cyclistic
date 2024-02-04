@@ -79,20 +79,20 @@ Summary:
   
 |Casual|Member|
 |------|------|
-|Prefer using bikes throughout the day, more frequently over the weekends in summer and spring for leisure activities.|Prefer riding bikes on week days during commute hours (8 am / 5pm) in summer and spring.|
-|Travel 2 times longer but less frequently than members.|Travel more frequently but shorter rides (approximately half of casual riders' trip duration).|
-|Start and end their journeys near parks, museums, along the coast and other recreational sites.|Start and end their trips close to universities, residential and commercial areas.| 
+|The casual riders prefer using bikes throughout the day, more frequently over the weekends for leisure activities. They are most active during summer and spring.| The member riders prefer riding bikes on week days during commute hours (8 am / 5pm). They are most active during summer and spring and more active than casual riders during winter and autumn.|
+|The casual riders travel two times longer than members. However, they are less frquent riders than member riders.|The member riders are more frequent users than casual riders. However, their trips are approximately half of casual riders' trip duration.|
+|The casual riders usually start and end their trips near parks, museums, along the coast and other leisure areas.|The member riders usually start and end their trips close to universities, residential and business areas.| 
 
 ### Stage 5: Share
 Data Visualization: [Tableau Report](https://public.tableau.com/app/profile/liwia2886/viz/CyclisticCustomerBuyingBehaviourAnalysisGoogleBICertificationCapstoneProject/Dashboard)  
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau. The analysis question is: What is the buying behaviour of Cyclistic Customers?  
 
 ### Stage 6: Act
-After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.  
+After identifying the differences between buying behaviours of casual and member riders, marketing strategies targeted at casual riders can be developed to cpnvert them to members.  
 Recommendations:  
-1. Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
-2. Casual riders are most active on weekends and during the summer and spring, thus they may be offered seasonal or weekend-only memberships.
-3. Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
+1. Marketing campaigns promoting benefits of becoming a member might be conducted in spring and summer at leisure locations popular among casual riders.
+2. Offering discounts and promotions for rides in the areas not used by casual riders to make these rides more attractive alternative to their current commuting to work, school or university.
+3. Change current pricing schema in a way that more frequent and shorter rides are more attractive, whcih would result in an incentive of becoming a member.
 
 
 
