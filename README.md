@@ -72,7 +72,7 @@ SQL Query: [02. Exploring Data](https://github.com/LiwiaWagner/Google-Business-I
 SQL Query: [03. Cleaning Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/03.%20Cleaning%20Data.sql)  
 Whithin this step all the rows having NULL values are deleted.
   
-## Analyze and Share
+### Stage 4: Analyze and Share
 SQL Query: [04. Analysing Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/04.%20Analyzing%20Data.sql)  
 Data Visualization: [Tableau Report](https://public.tableau.com/app/profile/liwia2886/viz/CyclisticCustomerBuyingBehaviourAnalysisGoogleBICertificationCapstoneProject/Dashboard)  
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau. The analysis question is: What is the buying behaviour of Cyclistic Customers?  
