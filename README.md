@@ -18,11 +18,11 @@ My task was to act as a Junior Data Analyst that would analyse company data and 
 
 Data Source: https://divvy-tripdata.s3.amazonaws.com/index.html
 
-SQL Queries:
-[01. Combining Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/01.%20Combining%20Data.sql)
-[02. Exploring Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/02.%20Exploring%20Data.sql)
-[03. Cleaning Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/03.%20Cleaning%20Data.sql)
-[04. Analyzing Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/04.%20Analyzing%20Data.sql)
+SQL Queries:  
+[01. Combining Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/01.%20Combining%20Data.sql)  
+[02. Exploring Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/02.%20Exploring%20Data.sql)  
+[03. Cleaning Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/03.%20Cleaning%20Data.sql)  
+[04. Analyzing Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/04.%20Analyzing%20Data.sql)  
 
 Tableau Report Link: https://public.tableau.com/app/profile/liwia2886/viz/CyclisticCustomerBuyingBehaviourAnalysisGoogleBICertificationCapstoneProject/Dashboard
 
