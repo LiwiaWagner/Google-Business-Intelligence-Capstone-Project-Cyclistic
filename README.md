@@ -16,7 +16,7 @@ My task was to act as a Junior Data Analyst that would analyse company data and 
 
 # Project Links
 
-Data Source: https://divvy-tripdata.s3.amazonaws.com/index.html
+Data Source: [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 SQL Queries:  
 [01. Combining Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/01.%20Combining%20Data.sql)  
