@@ -72,10 +72,27 @@ SQL Query: [02. Exploring Data](https://github.com/LiwiaWagner/Google-Business-I
 SQL Query: [03. Cleaning Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/03.%20Cleaning%20Data.sql)  
 Whithin this step all the rows having NULL values are deleted.
   
-### Stage 4: Analyze and Share
+### Stage 4: Analyze
 SQL Query: [04. Analysing Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/04.%20Analyzing%20Data.sql)  
+
+Summary:
+  
+|Casual|Member|
+|------|------|
+|Prefer using bikes throughout the day, more frequently over the weekends in summer and spring for leisure activities.|Prefer riding bikes on week days during commute hours (8 am / 5pm) in summer and spring.|
+|Travel 2 times longer but less frequently than members.|Travel more frequently but shorter rides (approximately half of casual riders' trip duration).|
+|Start and end their journeys near parks, museums, along the coast and other recreational sites.|Start and end their trips close to universities, residential and commercial areas.| 
+
+### Stage 5: Share
 Data Visualization: [Tableau Report](https://public.tableau.com/app/profile/liwia2886/viz/CyclisticCustomerBuyingBehaviourAnalysisGoogleBICertificationCapstoneProject/Dashboard)  
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau. The analysis question is: What is the buying behaviour of Cyclistic Customers?  
+
+### Stage 6: Act
+After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.  
+Recommendations:  
+1. Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
+2. Casual riders are most active on weekends and during the summer and spring, thus they may be offered seasonal or weekend-only memberships.
+3. Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
 
 
 
