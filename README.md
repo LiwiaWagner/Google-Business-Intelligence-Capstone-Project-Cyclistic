@@ -24,7 +24,7 @@ SQL Queries:
 [03. Cleaning Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/03.%20Cleaning%20Data.sql)  
 [04. Analyzing Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/04.%20Analyzing%20Data.sql)  
 
-Tableau Report Link: https://public.tableau.com/app/profile/liwia2886/viz/CyclisticCustomerBuyingBehaviourAnalysisGoogleBICertificationCapstoneProject/Dashboard
+Tableau Report Link: [Cyclistic Customer Buying Behavious Analysis](https://public.tableau.com/app/profile/liwia2886/viz/CyclisticCustomerBuyingBehaviourAnalysisGoogleBICertificationCapstoneProject/Dashboard)
 
 Tableau Report Preview:
 ![image](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/assets/66546424/0b08ef5c-8400-416c-b113-d3180583bfab)
@@ -61,12 +61,22 @@ There are 34 files with naming convention of YYYYMM-divvy-tripdata and each file
 PostgreSQL was used to combine the various datasets into one dataset and clean it.    
 
 ### Combining the Data
-SQL Query: [Data Combining](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01.%20Data%20Combining.sql)  
+SQL Query: [Combining Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/01.%20Combining%20Data.sql)  
 34 csv files were uploaded as tables and then union into one table named "t_2020_2021_2022_divvy_tridata", containing 14,804,382 rows of data.
 
 ### Data Exploration
-SQL Query: [Data Exploration](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02.%20Data%20Exploration.sql)  
+In this phase I was focused on exploring the data by checking if data for all months and years has been loaded, checking length of ride IDs, checking the number of NULL values for all fields, checking the number of stations and membership types.
+SQL Query: [Exploring Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/02.%20Exploring%20Data.sql)  
 
+### Data Cleaning
+SQL Query: [Cleaning Data](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/03.%20Cleaning%20Data.sql)  
+Whithin this step all the rows having NULL values are deleted.
+  
+## Analyze and Share
+SQL Query: [Data Analysis](https://github.com/LiwiaWagner/Google-Business-Intelligence-Capstone-Project-Cyclistic/blob/main/04.%20Analyzing%20Data.sql)  
+Data Visualization: [Tableau Report](https://public.tableau.com/app/profile/liwia2886/viz/CyclisticCustomerBuyingBehaviourAnalysisGoogleBICertificationCapstoneProject/Dashboard)  
+The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.  
+The analysis question is: What is the buying behaviour of Cyclistic Customers?  
 
 
 
