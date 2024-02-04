@@ -2,7 +2,7 @@
 SELECT EXTRACT(EPOCH FROM (ended_at_time - started_at_time))/60 AS trip_time_minutes 
 FROM t_2020_2021_2022_divvy_tripdata;
 
--- add trip_time_minutes field to the table
+-- add trip_time_minutes field to the table 
 ALTER TABLE t_2020_2021_2022_divvy_tripdata
 ADD COLUMN trip_time_minutes TIME;
 

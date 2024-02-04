@@ -16,7 +16,7 @@ SELECT COUNT(*) FROM t_2020_2021_2022_divvy_tripdata; --14'804'382 rows
 -- checking if ride IDs have any duplicate values
 SELECT COUNT(DISTINCT(ride_id)) FROM t_2020_2021_2022_divvy_tripdata; --14'804'096
 
--- checking the number of NULL values per row
+-- checking the number of NULL values per row 
 SELECT 
 	COUNT(*) - COUNT(ride_id) AS ride_id_count, --0
 	COUNT(*) - COUNT(rideable_type) AS rideable_type_count, --0

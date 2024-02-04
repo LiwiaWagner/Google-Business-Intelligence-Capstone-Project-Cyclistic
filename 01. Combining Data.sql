@@ -69,3 +69,4 @@ SELECT * FROM (
 	UNION ALL
 	SELECT * FROM t_2022_12_divvy_tripdata
 );
+ 
